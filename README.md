@@ -32,6 +32,6 @@
 [linkedin]: www.linkedin.com/in/mokhachane-moshoeshoe-782b13231
 
 -->
-- 🔭 I’m currently working on completing a few sgort courses that will aid in builkding a         better portfolio e.g PowerBi...
+- 🔭 I’m currently working on completing a few short courses that will aid in building a         better portfolio e.g PowerBi...
 - ⚡ Fun fact: I love Black and white colours and find cheesecake disgusting!
 -->
