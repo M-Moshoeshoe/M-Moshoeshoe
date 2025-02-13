@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development & Data Science Practice Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> A machine learning model to predict whether a Twitter user is a bot based on their activity and profile characteristics</b>
   - [Pracitice on Bot detection in Python](https://github.com/M-Moshoeshoe/Bot-Detection)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
