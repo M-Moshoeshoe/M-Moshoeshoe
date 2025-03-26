@@ -4,8 +4,8 @@
 
 - <b> A machine learning model to predict whether a Twitter user is a bot based on their activity and profile characteristics</b>
   - [Pracitice on Bot detection in Python](https://github.com/M-Moshoeshoe/Bot-Detection)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Eduvos IT Graduate Analysis Shiny App Using RStudio</b>
+  - [Eduvos IT Graduate Analysis](https://github.com/M-Moshoeshoe/EduvosDashboard) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
