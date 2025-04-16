@@ -11,7 +11,7 @@
 - <b>Eduvos IT Graduate Analysis Shiny App Using RStudio</b>
   - [Eduvos IT Graduate Analysis](https://github.com/M-Moshoeshoe/EduvosDashboard) <b>
 
-- <b>Eduvos IT Graduate Analysis Shiny App Using RStudio</b>
+- <b>visually analysing a system load using ScatterPlots </b>
   - [System Load vs Request per second Scatter Plot](https://github.com/M-Moshoeshoe/System-Load-vs-Requests-per-Second-Scatter-Plot.git) <b>
 
 <h2> 🤳 Connect with me:</h2>
