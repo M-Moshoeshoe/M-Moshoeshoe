@@ -4,6 +4,10 @@
 
 - <b> A machine learning model to predict whether a Twitter user is a bot based on their activity and profile characteristics</b>
   - [Pracitice on Bot detection in Python](https://github.com/M-Moshoeshoe/Bot-Detection)
+
+- <b>A predictive model that can accurately classify customers</b>
+  - [Customer Churn Prediction](https://github.com/M-Moshoeshoe/Customer-Churn-Prediction-.git) <b>
+
 - <b>Eduvos IT Graduate Analysis Shiny App Using RStudio</b>
   - [Eduvos IT Graduate Analysis](https://github.com/M-Moshoeshoe/EduvosDashboard) <b>
 
